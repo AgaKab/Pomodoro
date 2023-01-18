@@ -110,5 +110,3 @@ check_label = Label(text=mark, font=(FONT_NAME, 10, "bold"), fg=GREEN, bg=YELLOW
 check_label.grid(column=1, row=3)
 
 window.mainloop()
-
-print("Koniec")
